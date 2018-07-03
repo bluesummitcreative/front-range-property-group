@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		<?php wp_head(); ?>
         <!--Bootstrap Style Sheet-->        
-        <link rel="stylesheet" href="bootstrap/css/bootstrap.css">        
+        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/bootstrap/css/bootstrap.css">        
         <!--Custom Style Sheet-->
         <link rel="stylesheet" href="css/style.css">
         <!--New Custom Style Sheet-->
