@@ -61,7 +61,7 @@
 							<span class="tagline">By clicking 'Sign Up' you agree to our Website Terms of Use and Privacy Statement. You will receive promotional emails from Front Range Property Group.</span>
 						</div>
 						<div class="form-wrapper">
-							ECHO GRAVITY FORM HERE
+							<?php echo do_shortcode('[gravityform id="1" title="false" description="false" ajax="true" tabindex="10"]'); ?>
 						</div>
 					</div>					
 				</div>
