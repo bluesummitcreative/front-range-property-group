@@ -42,7 +42,7 @@
 					<div class="col-sm-6 col-xs-12">
 						<div class="logo-outter top-optc clearfix">
 							<a href="<?php echo esc_url(home_url()); ?>" class="logo">
-								<img src="images/logo.png" alt="<?php bloginfo( 'name' ); ?> logo">
+								<img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" alt="<?php bloginfo( 'name' ); ?> logo">
 							</a>
 						</div>
 						<div class="header-txt">
