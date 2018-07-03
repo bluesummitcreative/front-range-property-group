@@ -4,27 +4,7 @@
         <meta charset="utf-8">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-		<?php wp_head(); ?>
-        <!--Bootstrap Style Sheet-->        
-        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/bootstrap/css/bootstrap.css">        
-        <!--Custom Style Sheet-->
-        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/style.css">
-        <!--New Custom Style Sheet-->
-        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/custom.css">
-        <!--New Updates Style Sheet-->
-        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/updates.css">        
-		<!--Animation Style Sheet-->   
-	    <link href="<?php echo get_template_directory_uri(); ?>/css/animations.css" rel="stylesheet" type="text/css">
-        <!--loader Style Sheet-->
-	    <link href="<?php echo get_template_directory_uri(); ?>/css/loader.css" rel="stylesheet" type="text/css">
-        <!--color-mustard.css-->
-	    <link href="<?php echo get_template_directory_uri(); ?>/css/color-mustard.css" rel="stylesheet" type="text/css">	    	
-		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-	    <!--[if lt IE 9]>
-	      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-	      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-	    <![endif]-->
+	<?php wp_head(); ?>
     </head>
     <body <?php body_class(); ?> id="color-mustard">
 		<!-- LOADER -->
@@ -86,23 +66,6 @@
 			</div>
 		</footer>
 		<!-- END OF FOOTER -->
-		<?php wp_footer(); ?>
-
-        <!-- jquery-2.1.1.min.js -->
-        <script src="<?php echo get_template_directory_uri(); ?>/js/jquery-2.1.1.min.js"></script>
-		<!--modernizr.js-->
-        <script src="<?php echo get_template_directory_uri(); ?>/js/modernizr.js"></script>
-		<!--jquery.waypoints.js-->
-        <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.waypoints.js"></script>        
-        <!-- bootstrap.js -->
-        <script src="<?php echo get_template_directory_uri(); ?>/bootstrap/js/bootstrap.js"></script>
-		<!-- Jquery.simplr.jquery.validate.js -->
-		<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery.validate.js"></script>		
-		<!-- Jquery.simplr.jquery-validate.bootstrap-tooltip.js -->
-		<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery-validate.bootstrap-tooltip.js"></script>
-		<!-- Less.js -->
-        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/less/less.js"></script>          
-        <!-- custom.js -->        
-		<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/custom.js"></script>		        
+		<?php wp_footer(); ?>	        
     </body>
 </html>
