@@ -14,7 +14,9 @@
 		wp_enqueue_script( 'respond.min', '//oss.maxcdn.com/respond/1.4.2/respond.min.js' ); //Respond JS
 		wp_script_add_data( 'respond.min', 'conditional', 'lt IE 9' ); //Get Respond JS if less than IE9
      
-    wp_enqueue_script ('jquery', get_template_directory_uri(). '/js/jquery-2.1.1.min.js' );
+    wp_deregister_script( 'jquery' );
+    wp_register_script( 'jquery', get_template_directory_uri(). '/js/jquery-2.1.1.min.js');
+    wp_enqueue_script ('jquery');
     wp_enqueue_script ('modernizr', get_template_directory_uri(). '/js/modernizr.js' );
     wp_enqueue_script ('jquery.waypoints', get_template_directory_uri(). '/js/jquery.waypoints.js' );        
     wp_enqueue_script ('bootstrap', get_template_directory_uri(). '/bootstrap/js/bootstrap.js' );
