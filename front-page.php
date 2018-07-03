@@ -8,17 +8,17 @@
         <!--Bootstrap Style Sheet-->        
         <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/bootstrap/css/bootstrap.css">        
         <!--Custom Style Sheet-->
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/style.css">
         <!--New Custom Style Sheet-->
-        <link rel="stylesheet" href="css/custom.css">
+        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/custom.css">
         <!--New Updates Style Sheet-->
-        <link rel="stylesheet" href="css/updates.css">        
+        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/updates.css">        
 		<!--Animation Style Sheet-->   
-	    <link href="css/animations.css" rel="stylesheet" type="text/css">
+	    <link href="<?php echo get_template_directory_uri(); ?>/css/animations.css" rel="stylesheet" type="text/css">
         <!--loader Style Sheet-->
-	    <link href="css/loader.css" rel="stylesheet" type="text/css">
+	    <link href="<?php echo get_template_directory_uri(); ?>/css/loader.css" rel="stylesheet" type="text/css">
         <!--color-mustard.css-->
-	    <link href="css/color-mustard.css" rel="stylesheet" type="text/css">	    	
+	    <link href="<?php echo get_template_directory_uri(); ?>/css/color-mustard.css" rel="stylesheet" type="text/css">	    	
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	    <!--[if lt IE 9]>
@@ -89,20 +89,20 @@
 		<?php wp_footer(); ?>
 
         <!-- jquery-2.1.1.min.js -->
-        <script src="js/jquery-2.1.1.min.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/jquery-2.1.1.min.js"></script>
 		<!--modernizr.js-->
-        <script src="js/modernizr.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/modernizr.js"></script>
 		<!--jquery.waypoints.js-->
-        <script src="js/jquery.waypoints.js"></script>        
+        <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.waypoints.js"></script>        
         <!-- bootstrap.js -->
-        <script src="bootstrap/js/bootstrap.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/bootstrap/js/bootstrap.js"></script>
 		<!-- Jquery.simplr.jquery.validate.js -->
-		<script type="text/javascript" src="js/jquery.validate.js"></script>		
+		<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery.validate.js"></script>		
 		<!-- Jquery.simplr.jquery-validate.bootstrap-tooltip.js -->
-		<script type="text/javascript" src="js/jquery-validate.bootstrap-tooltip.js"></script>
+		<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery-validate.bootstrap-tooltip.js"></script>
 		<!-- Less.js -->
-        <script type="text/javascript" src="less/less.js"></script>          
+        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/less/less.js"></script>          
         <!-- custom.js -->        
-		<script type="text/javascript" src="js/custom.js"></script>		        
+		<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/custom.js"></script>		        
     </body>
 </html>
