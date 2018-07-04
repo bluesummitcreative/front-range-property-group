@@ -1119,4 +1119,4 @@ footer .socail ul li a.linkdin:hover {
 
 
 /*Gravity Forms*/
-form#gform_1 label {display:none;}
+.gform_wrapper .top_label .gfield_label {display:none;}
