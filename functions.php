@@ -28,4 +28,7 @@
     } 
 		
 	if (!is_admin()) add_action( 'wp_enqueue_scripts', 'bsc_enqueue_styles_scripts' ); //Load styles and scripts on non-admin screens
+
+//Allow labels to be hidden
+add_filter( 'gform_enable_field_label_visibility_settings', '__return_true' );
 ?>
