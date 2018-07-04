@@ -15,6 +15,9 @@ textarea:focus {
 #color-mustard .banner.header-banner {
     background: linear-gradient(to left, rgba(255, 255, 255, 0) 0, rgba(255, 255, 255, 1) 1700px, rgba(255, 255, 255, 1) 290px), url(../images/30919488-exterior-of-a-modern-small-office-building.jpg);
     background-position: left center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachmentfixed:
 }
 
 #color-mustard .banner.benefits-bg {
