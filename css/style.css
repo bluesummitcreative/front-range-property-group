@@ -1119,4 +1119,13 @@ footer .socail ul li a.linkdin:hover {
 
 
 /*Gravity Forms*/
-body #gform_wrapper_1 .gform_body .gform_fields .gfield input[type=text] {border: 1px solid red;}
+body #gform_wrapper_1 .gform_body .gform_fields .gfield input[type=text] {
+	background-color: #fff;
+	width: 100%;
+	height: 48px;
+	color: #bbb;
+	padding: 0 20px;
+	font-family: Roboto, sans-serif;
+	font-size: 14px;
+	border: 1px solid #cecece
+}
