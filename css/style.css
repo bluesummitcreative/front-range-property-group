@@ -280,7 +280,7 @@ header {
 .header-txt-inner p {
     font-size: 18px;
 	    color: #26282a;
-    text-shadow: #000000 1px 1px 1px;
+    text-shadow: #000000 0px 0px 1px;
 	margin-top:10px;
 }
 
@@ -1113,3 +1113,10 @@ footer .socail ul li a.linkdin:hover {
         visibility: visible
     }
 }
+
+
+
+
+
+/*Gravity Forms*/
+form#gform_1 label {display:none;}
