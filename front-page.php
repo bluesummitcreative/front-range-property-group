@@ -28,8 +28,11 @@
 						<div class="header-txt">
 							<div class="header-txt-inner">
 								<h1 class="top-optc">COMMERCIAL PROPERTIES FOR SALE</h1>
-								<p class="top-optc">Sign up to get the latest list of commercial real estate properties for sale, delivered weekly to your inbox.</p>
-								<p class="top-optc">Questions? Call 303-419-4686</p>
+								<p class="top-optc">Your lease is about to expire. Your space or business needs have changed. You’re curious what other options are out there.</p>
+
+<p class="top-optc">Whatever your reasons for considering an office move, this stage is filled with unknowns. But one thing is certain: You need to make room for the future, even if you can’t predict it.</p>
+
+<p class="top-optc">Whether that means a mild renovation or a full-on relocation, this guide will help you start that discussion. So if and when you decide to move, you’ll know exactly what to you will need to act upon.</p>
 							</div>
 						</div>
 					</div>
