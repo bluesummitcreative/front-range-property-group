@@ -39,7 +39,7 @@
 					<div class="col-sm-6 col-xs-12 form-outter visibility">
 						<div class="form-content">
 							<div class="form-content-inner">
-								<h3 style="margin-bottom:30px;">Sign up for our Monthly Strategy and Tips and Recieve Our Guide to Office Relocation</h3>
+								<h3 style="margin-bottom:30px;">Sign up for our Monthly Strategy and Tips and Receive Our Guide to Office Relocation</h3>
 							</div>
 							<span class="tagline">By clicking 'Sign Up' you agree to our Website Terms of Use and Privacy Statement. You will receive promotional emails from Front Range Property Group.</span>
 						</div>
