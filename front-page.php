@@ -27,7 +27,7 @@
 						</div>
 						<div class="header-txt">
 							<div class="header-txt-inner">
-								<h1 class="top-optc">COMMERCIAL PROPERTIES FOR SALE</h1>
+								<h1 class="top-optc">COLORADO TENANT REPRESENTATION AT ITS FINEST</h1>
 								<p class="top-optc">Your lease is about to expire. Your space or business needs have changed. You’re curious what other options are out there.</p>
 
 <p class="top-optc">Whatever your reasons for considering an office move, this stage is filled with unknowns. But one thing is certain: You need to make room for the future, even if you can’t predict it.</p>
@@ -39,7 +39,7 @@
 					<div class="col-sm-6 col-xs-12 form-outter visibility">
 						<div class="form-content">
 							<div class="form-content-inner">
-								<h4>Get FREE Commercial Listing Alerts</h4>
+								<h3 style="margin-bottom:30px;">Sign up for our Monthly Strategy and Tips and Recieve Our Guide to Office Relocation</h3>
 							</div>
 							<span class="tagline">By clicking 'Sign Up' you agree to our Website Terms of Use and Privacy Statement. You will receive promotional emails from Front Range Property Group.</span>
 						</div>
